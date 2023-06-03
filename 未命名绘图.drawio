@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-05-07T09:41:01.394Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.2.9" etag="kVetjWM3vLaeAZKS5icf" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-03T04:37:13.119Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="nnoaeSDJDnsaDGlWXJTW" version="21.3.6" type="github">
   <diagram name="第 1 页" id="vvAjFNdVbKIWIhDnnMPU">
-    <mxGraphModel>
+    <mxGraphModel dx="1432" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MMu5Ellv6yzPF977NXEl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MMu5Ellv6yzPF977NXEl-1" target="MMu5Ellv6yzPF977NXEl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MMu5Ellv6yzPF977NXEl-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="150" y="190" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MMu5Ellv6yzPF977NXEl-2" value="Time series data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MMu5Ellv6yzPF977NXEl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MMu5Ellv6yzPF977NXEl-3" target="MMu5Ellv6yzPF977NXEl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MMu5Ellv6yzPF977NXEl-3" value="shapelet sequence&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;change method&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="160" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MMu5Ellv6yzPF977NXEl-6" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="510" y="190" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MMu5Ellv6yzPF977NXEl-8" value="shape sequence&amp;nbsp;&lt;br&gt;representation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="485" y="280" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
