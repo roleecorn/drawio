@@ -1,9 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T10:36:36.769Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.5.0" etag="ndrRMwcIV6SyopajNaYQ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T10:52:34.786Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DWXUVZ17j1DDbeMVR-bo" version="21.5.0" type="github">
   <diagram name="第 1 页" id="Y6tpLjsBZmcPnYHa7uQT">
-    <mxGraphModel>
+    <mxGraphModel dx="1432" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GDBSbnuzbVsaNcWUOeSd-41" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="140" width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GDBSbnuzbVsaNcWUOeSd-26" value="" style="group" vertex="1" connectable="0" parent="GDBSbnuzbVsaNcWUOeSd-41">
+          <mxGeometry x="90" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GDBSbnuzbVsaNcWUOeSd-17" value="38" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="GDBSbnuzbVsaNcWUOeSd-26">
+          <mxGeometry width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GDBSbnuzbVsaNcWUOeSd-18" value="12" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="GDBSbnuzbVsaNcWUOeSd-26">
+          <mxGeometry x="60" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GDBSbnuzbVsaNcWUOeSd-19" value="16" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="GDBSbnuzbVsaNcWUOeSd-26">
+          <mxGeometry x="120" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GDBSbnuzbVsaNcWUOeSd-20" value="19" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="GDBSbnuzbVsaNcWUOeSd-26">
+          <mxGeometry x="180" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GDBSbnuzbVsaNcWUOeSd-21" value="25" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="GDBSbnuzbVsaNcWUOeSd-26">
+          <mxGeometry x="240" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GDBSbnuzbVsaNcWUOeSd-22" value="5" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="GDBSbnuzbVsaNcWUOeSd-26">
+          <mxGeometry x="300" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GDBSbnuzbVsaNcWUOeSd-23" value="7" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="GDBSbnuzbVsaNcWUOeSd-26">
+          <mxGeometry x="360" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GDBSbnuzbVsaNcWUOeSd-24" value="17" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="GDBSbnuzbVsaNcWUOeSd-26">
+          <mxGeometry x="420" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GDBSbnuzbVsaNcWUOeSd-25" value="12" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="GDBSbnuzbVsaNcWUOeSd-26">
+          <mxGeometry x="480" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GDBSbnuzbVsaNcWUOeSd-37" value="Shapelet level" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GDBSbnuzbVsaNcWUOeSd-41">
+          <mxGeometry y="5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GDBSbnuzbVsaNcWUOeSd-42" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="90" width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GDBSbnuzbVsaNcWUOeSd-27" value="behavior 1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="GDBSbnuzbVsaNcWUOeSd-42">
+          <mxGeometry x="90" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GDBSbnuzbVsaNcWUOeSd-28" value="behavior 2" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="GDBSbnuzbVsaNcWUOeSd-42">
+          <mxGeometry x="210" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GDBSbnuzbVsaNcWUOeSd-29" value="behavior 3" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="GDBSbnuzbVsaNcWUOeSd-42">
+          <mxGeometry x="390" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GDBSbnuzbVsaNcWUOeSd-30" value="behavior 1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="GDBSbnuzbVsaNcWUOeSd-42">
+          <mxGeometry x="510" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GDBSbnuzbVsaNcWUOeSd-38" value="Behavior level" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GDBSbnuzbVsaNcWUOeSd-42">
+          <mxGeometry y="5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GDBSbnuzbVsaNcWUOeSd-43" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="200" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GDBSbnuzbVsaNcWUOeSd-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="GDBSbnuzbVsaNcWUOeSd-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="40" as="sourcePoint" />
+            <mxPoint x="600" y="20" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" />
+              <mxPoint x="130" y="60" />
+              <mxPoint x="150" y="10" />
+              <mxPoint x="170" y="50" />
+              <mxPoint x="180" y="20" />
+              <mxPoint x="190" y="40" />
+              <mxPoint x="200" />
+              <mxPoint x="210" y="20" />
+              <mxPoint x="240" y="30" />
+              <mxPoint x="260" />
+              <mxPoint x="270" y="50" />
+              <mxPoint x="280" y="30" />
+              <mxPoint x="290" y="60" />
+              <mxPoint x="300" />
+              <mxPoint x="320" y="40" />
+              <mxPoint x="330" y="10" />
+              <mxPoint x="340" y="50" />
+              <mxPoint x="380" y="10" />
+              <mxPoint x="390" y="40" />
+              <mxPoint x="410" />
+              <mxPoint x="420" y="60" />
+              <mxPoint x="440" y="10" />
+              <mxPoint x="450" y="30" />
+              <mxPoint x="470" />
+              <mxPoint x="480" y="50" />
+              <mxPoint x="500" y="20" />
+              <mxPoint x="520" />
+              <mxPoint x="540" y="60" />
+              <mxPoint x="550" />
+              <mxPoint x="560" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GDBSbnuzbVsaNcWUOeSd-40" value="Signal level" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="GDBSbnuzbVsaNcWUOeSd-43">
+          <mxGeometry y="10" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
