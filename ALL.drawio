@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T07:27:41.812Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="QM1tCYkthW-AaZyExXaY" version="21.6.5" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-07-22T07:28:40.089Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fuefokd6jOh_dk3J_0cm" version="21.6.5" type="github" pages="15">
   <diagram name="T2G_make_graph" id="rAqzIHwv5L88-jfvFItO">
     <mxGraphModel dx="1434" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -914,7 +914,7 @@
         <mxCell id="R5c_hcGNVot45k_epxCh-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="R5c_hcGNVot45k_epxCh-2" source="R5c_hcGNVot45k_epxCh-13" target="R5c_hcGNVot45k_epxCh-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R5c_hcGNVot45k_epxCh-29" value="shapelet evolution graph 1" style="rounded=1;whiteSpace=wrap;html=1;" parent="R5c_hcGNVot45k_epxCh-2" vertex="1">
+        <mxCell id="R5c_hcGNVot45k_epxCh-29" value="sub evolution graph 1" style="rounded=1;whiteSpace=wrap;html=1;" parent="R5c_hcGNVot45k_epxCh-2" vertex="1">
           <mxGeometry x="71" y="350" width="148" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R5c_hcGNVot45k_epxCh-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="R5c_hcGNVot45k_epxCh-2" source="R5c_hcGNVot45k_epxCh-17" target="R5c_hcGNVot45k_epxCh-29" edge="1">
@@ -935,7 +935,7 @@
         <mxCell id="R5c_hcGNVot45k_epxCh-33" value="transition 3...n-3" style="rounded=0;whiteSpace=wrap;html=1;" parent="R5c_hcGNVot45k_epxCh-2" vertex="1">
           <mxGeometry x="193" y="230" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R5c_hcGNVot45k_epxCh-34" value="shapelet evolution graph 2" style="rounded=1;whiteSpace=wrap;html=1;" parent="R5c_hcGNVot45k_epxCh-2" vertex="1">
+        <mxCell id="R5c_hcGNVot45k_epxCh-34" value="sub evolution graph 2" style="rounded=1;whiteSpace=wrap;html=1;" parent="R5c_hcGNVot45k_epxCh-2" vertex="1">
           <mxGeometry x="295.5" y="350" width="148" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R5c_hcGNVot45k_epxCh-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="R5c_hcGNVot45k_epxCh-2" source="R5c_hcGNVot45k_epxCh-23" target="R5c_hcGNVot45k_epxCh-34" edge="1">
@@ -964,9 +964,6 @@
         </mxCell>
         <mxCell id="R5c_hcGNVot45k_epxCh-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="R5c_hcGNVot45k_epxCh-2" source="R5c_hcGNVot45k_epxCh-38" target="R5c_hcGNVot45k_epxCh-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="stCRhhrerFRB7kFCOZRD-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;" parent="R5c_hcGNVot45k_epxCh-2" vertex="1">
-          <mxGeometry x="550" y="150" width="180" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
