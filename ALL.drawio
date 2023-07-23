@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T07:33:47.358Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="d82mQX9JalQ6oxA8Gvbk" version="21.6.5" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-07-23T07:34:46.542Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="14BCppyC_tZadDQ_b6aX" version="21.6.5" type="github" pages="15">
   <diagram name="T2G_make_graph" id="rAqzIHwv5L88-jfvFItO">
     <mxGraphModel dx="1434" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -483,7 +483,7 @@
         <mxCell id="ynddpWK3zJXngTrMTeaB-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ynddpWK3zJXngTrMTeaB-31" source="ynddpWK3zJXngTrMTeaB-42" target="ynddpWK3zJXngTrMTeaB-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ynddpWK3zJXngTrMTeaB-58" value="shapelet evolution graph 1" style="rounded=1;whiteSpace=wrap;html=1;" parent="ynddpWK3zJXngTrMTeaB-31" vertex="1">
+        <mxCell id="ynddpWK3zJXngTrMTeaB-58" value="sub evolution graph 1" style="rounded=1;whiteSpace=wrap;html=1;" parent="ynddpWK3zJXngTrMTeaB-31" vertex="1">
           <mxGeometry x="71" y="350" width="148" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ynddpWK3zJXngTrMTeaB-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ynddpWK3zJXngTrMTeaB-31" source="ynddpWK3zJXngTrMTeaB-46" target="ynddpWK3zJXngTrMTeaB-58" edge="1">
@@ -504,7 +504,7 @@
         <mxCell id="ynddpWK3zJXngTrMTeaB-62" value="transition 3...n-3" style="rounded=0;whiteSpace=wrap;html=1;" parent="ynddpWK3zJXngTrMTeaB-31" vertex="1">
           <mxGeometry x="193" y="230" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ynddpWK3zJXngTrMTeaB-63" value="shapelet evolution graph 2" style="rounded=1;whiteSpace=wrap;html=1;" parent="ynddpWK3zJXngTrMTeaB-31" vertex="1">
+        <mxCell id="ynddpWK3zJXngTrMTeaB-63" value="sub evolution graph 2" style="rounded=1;whiteSpace=wrap;html=1;" parent="ynddpWK3zJXngTrMTeaB-31" vertex="1">
           <mxGeometry x="295.5" y="350" width="148" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ynddpWK3zJXngTrMTeaB-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ynddpWK3zJXngTrMTeaB-31" source="ynddpWK3zJXngTrMTeaB-52" target="ynddpWK3zJXngTrMTeaB-63" edge="1">
@@ -535,7 +535,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eC5MC7k5eDVXbUuzWPRB-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;" parent="ynddpWK3zJXngTrMTeaB-31" vertex="1">
-          <mxGeometry y="220" width="550" height="200" as="geometry" />
+          <mxGeometry x="8.5" y="220" width="550" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
