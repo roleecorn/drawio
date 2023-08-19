@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T13:22:56.165Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="7No8MckSNRU8wV4Dvjd9" version="21.6.8" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-08-19T13:23:11.194Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="dCNH4AjWJZaIPK_hsfYm" version="21.6.8" type="github" pages="17">
   <diagram name="T2G_make_graph" id="rAqzIHwv5L88-jfvFItO">
     <mxGraphModel dx="1434" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -276,7 +276,7 @@
         <mxCell id="CPCXk2H4ny2i1ngBp7Gs-36" value="seg3" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" parent="CPCXk2H4ny2i1ngBp7Gs-1" vertex="1">
           <mxGeometry x="202" y="170" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CPCXk2H4ny2i1ngBp7Gs-38" value="segn-2" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" parent="CPCXk2H4ny2i1ngBp7Gs-1" vertex="1">
+        <mxCell id="CPCXk2H4ny2i1ngBp7Gs-38" value="&amp;nbsp; &amp;nbsp;segn-2" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" parent="CPCXk2H4ny2i1ngBp7Gs-1" vertex="1">
           <mxGeometry x="372" y="170" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BdeFTuJTW7GX_AiLc0xE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="CPCXk2H4ny2i1ngBp7Gs-1" source="CPCXk2H4ny2i1ngBp7Gs-40" target="BdeFTuJTW7GX_AiLc0xE-13" edge="1">
