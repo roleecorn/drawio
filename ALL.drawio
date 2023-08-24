@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T02:47:19.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="RLo-XKq-SZGj8rGlSW8O" version="21.6.9" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-08-24T07:26:12.863Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="SW1DLqNefnXcxJUZFaN2" version="21.6.9" type="github" pages="17">
   <diagram name="T2G_make_graph" id="rAqzIHwv5L88-jfvFItO">
     <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1035,7 +1035,7 @@
         <mxCell id="Lr1w_dYbofoEpZN6a29K-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="Lr1w_dYbofoEpZN6a29K-22" vertex="1">
           <mxGeometry x="20" y="20" width="156" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Lr1w_dYbofoEpZN6a29K-26" value="Shapelet transform matrix" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="Lr1w_dYbofoEpZN6a29K-22" vertex="1">
+        <mxCell id="Lr1w_dYbofoEpZN6a29K-26" value="Shapelet Transform Matrix" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="Lr1w_dYbofoEpZN6a29K-22" vertex="1">
           <mxGeometry x="30" y="30" width="156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PDlyOXFN9Bkn5NN0iN3W-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="Lr1w_dYbofoEpZN6a29K-1" source="Lr1w_dYbofoEpZN6a29K-40" target="PDlyOXFN9Bkn5NN0iN3W-25" edge="1">
@@ -1125,7 +1125,7 @@
         <mxCell id="84Ayu2nBbrFgdJdx_NoZ-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="84Ayu2nBbrFgdJdx_NoZ-8" vertex="1">
           <mxGeometry x="20" y="20" width="156" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="84Ayu2nBbrFgdJdx_NoZ-12" value="assignment probability vector" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="84Ayu2nBbrFgdJdx_NoZ-8" vertex="1">
+        <mxCell id="84Ayu2nBbrFgdJdx_NoZ-12" value="Assignment Probability Vector" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="84Ayu2nBbrFgdJdx_NoZ-8" vertex="1">
           <mxGeometry x="30" y="30" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="84Ayu2nBbrFgdJdx_NoZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Lr1w_dYbofoEpZN6a29K-1" source="84Ayu2nBbrFgdJdx_NoZ-12" target="PDlyOXFN9Bkn5NN0iN3W-14" edge="1">
