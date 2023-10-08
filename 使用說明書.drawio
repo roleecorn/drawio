@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T06:00:41.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="g1AEFbiCzHwnnHMzZhPx" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-08T06:53:44.704Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="t9W0g9Sd9grR-X_c4ZHU" version="22.0.0" type="github">
   <diagram name="第 1 页" id="C5l_8MTJy6E7nvTT6cx1">
     <mxGraphModel dx="1386" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,19 +85,19 @@
         <mxCell id="JVQOGXtA0UY9P2nOXx5_-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="JVQOGXtA0UY9P2nOXx5_-23" target="JVQOGXtA0UY9P2nOXx5_-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JVQOGXtA0UY9P2nOXx5_-23" value="目標商品卡的圖片" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="JVQOGXtA0UY9P2nOXx5_-23" value="目標商品卡的圖片" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="330" y="440" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JVQOGXtA0UY9P2nOXx5_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="JVQOGXtA0UY9P2nOXx5_-24" target="JVQOGXtA0UY9P2nOXx5_-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JVQOGXtA0UY9P2nOXx5_-24" value="下一頁或是看更多的圖片" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="JVQOGXtA0UY9P2nOXx5_-24" value="下一頁或是看更多的圖片" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="330" y="535" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JVQOGXtA0UY9P2nOXx5_-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVQOGXtA0UY9P2nOXx5_-28" target="JVQOGXtA0UY9P2nOXx5_-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JVQOGXtA0UY9P2nOXx5_-28" value="在程式根目錄選擇編輯網站資料填寫並送出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="JVQOGXtA0UY9P2nOXx5_-28" value="在程式根目錄選擇編輯網站資料填寫並送出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="530" y="480" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JVQOGXtA0UY9P2nOXx5_-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVQOGXtA0UY9P2nOXx5_-32" target="JVQOGXtA0UY9P2nOXx5_-34">
@@ -124,7 +124,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JVQOGXtA0UY9P2nOXx5_-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;新網站註冊完畢，可以開始進行執行&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JVQOGXtA0UY9P2nOXx5_-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;新網站註冊完畢，可以開始進行執行&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="245" y="760" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JVQOGXtA0UY9P2nOXx5_-34" value="測試執行&lt;br&gt;只操作一頁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -139,7 +139,7 @@
         <mxCell id="JVQOGXtA0UY9P2nOXx5_-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVQOGXtA0UY9P2nOXx5_-43" target="JVQOGXtA0UY9P2nOXx5_-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JVQOGXtA0UY9P2nOXx5_-43" value="選擇標記物件&lt;br style=&quot;font-size: 14px;&quot;&gt;將商品卡圖片上傳&lt;br style=&quot;font-size: 14px;&quot;&gt;將XYwh儲存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="JVQOGXtA0UY9P2nOXx5_-43" value="選擇標記物件&lt;br style=&quot;font-size: 14px;&quot;&gt;將商品卡圖片上傳&lt;br style=&quot;font-size: 14px;&quot;&gt;將XYwh儲存" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="330" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
